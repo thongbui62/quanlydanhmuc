@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 13px;
+}
+.header input,textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    width: 100%;
+    height: 30px;
+}
+.header p{
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+span{
+	color: red;
+}
+.nav{
+	border: 1px solid #00000024;
+}
+.nav:hover{
+	cursor: pointer;
+}
+.nav p{
+	width: 100%;
+	font-weight: bold;
+}
+.table th,.table td{
+	padding: 4px;
+}
+.navigation {
+    margin: 5px;
+}
+
+.nav_click{
+    background: #0040859c;
+    color: white;
+    cursor: pointer;
+}
+.form_1 p {
+    font-weight: bold;
+    border-bottom: 1px solid #2125293b;
+}
+td input{
+	width: 100%;
+}
